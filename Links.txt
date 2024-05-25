@@ -1,3 +1,5 @@
 GitHub: https://github.com/itoalberti/PIT_Banco_Aurum.git
 
 Trello: https://trello.com/b/ulKE4bll/projeto-banco-aurum
+
+Vídeos da apresentação: https://drive.google.com/drive/folders/1URnczpvxzthtUy1PzgwQctQrP90IJtLa?usp=drive_link
