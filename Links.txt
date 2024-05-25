@@ -1,4 +1,4 @@
-GitHub: https://github.com/itoalberti/PIT_Banco_Aurum.git
+GitHub: https://github.com/itoalberti/PIT_BancoAurum.git
 
 Trello: https://trello.com/b/ulKE4bll/projeto-banco-aurum
 
